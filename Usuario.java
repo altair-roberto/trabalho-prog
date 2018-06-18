@@ -62,6 +62,14 @@ public class Usuario {
 				livrosEmprestados[i] = livro;
 				livro.setDisponivelParaEmprestimo(false);
 				Biblioteca.ordenaListaLivros(livrosEmprestados);
+
+				// checa se o usuario ainda pode emprestar livros
+				setAtivo(false);
+				for (int j = 0; j < livrosEmprestados.length; j++) {
+					if (livrosEmprestados[j] == null) {
+						setAtivo(true);
+					}
+				}
 				return true;
 			}
 		}

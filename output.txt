@@ -1,0 +1,464 @@
+-- Executando operacoes --
+Livro "Introduction to Algorithms" cadastrado com sucesso!
+Livro "C++ Programming Language, The" cadastrado com sucesso!
+Livro "C Programming Language, The" cadastrado com sucesso!
+Livro "Programming Pearls" cadastrado com sucesso!
+Livro "Design Patterns - Elements of Reusable Software" cadastrado com sucesso!
+Livro "Art of Computer Programming Vol. 1, The" cadastrado com sucesso!
+Livro "Concrete Mathematics: A Foundation for Computer Science" cadastrado com sucesso!
+Livro "Code Complete: A Practical Handbook of Software Construction" cadastrado com sucesso!
+Livro "Clean Code: A Handbook of Agile Software Craftsmanship" cadastrado com sucesso!
+Livro "Data Structures and Algorithms in Java" cadastrado com sucesso!
+Livro "Code: The Hidden Language of Computer Hardware and Software" cadastrado com sucesso!
+Livro "Linux Programming Interface: A Linux and UNIX System Programming Handbook, The" cadastrado com sucesso!
+Livro "Book of Proof" cadastrado com sucesso!
+Livro "Programming Language Pragmatics" cadastrado com sucesso!
+Livro "Types and Programming Languages" cadastrado com sucesso!
+Livro "The Pragmatic Programmer: From Journeyman to Master" cadastrado com sucesso!
+Livro "Learning Python" cadastrado com sucesso!
+Livro "Computer Networks" cadastrado com sucesso!
+Livro "Engineering a Compiler" cadastrado com sucesso!
+Livro "Mythical Man-Month: Essays on Software Engineering, The" cadastrado com sucesso!
+Livro "Introduction to the Theory of Computation" cadastrado com sucesso!
+Livro "Structure and Interpretation of Computer Programs" cadastrado com sucesso!
+Livro "Thinking in Java" cadastrado com sucesso!
+Livro "sed & awk" cadastrado com sucesso!
+Livro "Emacs Lisp - An Introduction" cadastrado com sucesso!
+Livro "Absolute OpenBSD: Unix for the Practical Paranoid" cadastrado com sucesso!
+Livro "Unix Programming Environment, The" cadastrado com sucesso!
+Livro "Learning the bash Shell: Unix Shell Programming" cadastrado com sucesso!
+Livro "Compilers: Principles, Techniques, and Tools" cadastrado com sucesso!
+Livro "Operating System Concepts" cadastrado com sucesso!
+ERRO: O livro Introduction to Algorithms nao pode ser cadastrado!
+Usuario Camila Cunha Martins cadastrado com sucesso!
+Usuario Gabriela Santos Souza cadastrado com sucesso!
+Usuario Renan Lima Cardoso cadastrado com sucesso!
+Usuario Thais Melo Rodrigues cadastrado com sucesso!
+Usuario Mariana Rodrigues Cavalcanti cadastrado com sucesso!
+Usuario Arthur Ferreira Cunha cadastrado com sucesso!
+Usuario Otavio Martinz Azevedo cadastrado com sucesso!
+Usuario Julia Pereira Cardoso cadastrado com sucesso!
+Usuario Julia Gomes Pereira cadastrado com sucesso!
+Usuario Diogo Ribeiro Carvalho cadastrado com sucesso!
+ERRO: O usuario Diogo Ribeiro Carvalho nao pode ser cadastrado!
+Desativando usuario Diogo Ribeiro Carvalho
+Ativando usuario Diogo Ribeiro Carvalho
+Livro "Introduction to Algorithms" emprestado para o usuario Diogo Ribeiro Carvalho
+Livro "C++ Programming Language, The" emprestado para o usuario Diogo Ribeiro Carvalho
+Livro "Operating System Concepts" emprestado para o usuario Diogo Ribeiro Carvalho
+Livro "Programming Pearls" emprestado para o usuario Camila Cunha Martins
+Livro "Design Patterns - Elements of Reusable Software" emprestado para o usuario Gabriela Santos Souza
+Livro "Art of Computer Programming Vol. 1, The" emprestado para o usuario Renan Lima Cardoso
+Livro "Concrete Mathematics: A Foundation for Computer Science" emprestado para o usuario Renan Lima Cardoso
+Livro "Code Complete: A Practical Handbook of Software Construction" emprestado para o usuario Otavio Martinz Azevedo
+Livro "Clean Code: A Handbook of Agile Software Craftsmanship" emprestado para o usuario Mariana Rodrigues Cavalcanti
+Livro "Data Structures and Algorithms in Java" emprestado para o usuario Otavio Martinz Azevedo
+Livro "Code: The Hidden Language of Computer Hardware and Software" emprestado para o usuario Thais Melo Rodrigues
+Livro "Linux Programming Interface: A Linux and UNIX System Programming Handbook, The" emprestado para o usuario Camila Cunha Martins
+Livro "Book of Proof" emprestado para o usuario Thais Melo Rodrigues
+Livro "Programming Language Pragmatics" emprestado para o usuario Gabriela Santos Souza
+Livro "Types and Programming Languages" emprestado para o usuario Julia Gomes Pereira
+ERRO: O livro 0262162091 nao pode ser emprestado ao usuario 101.455.398-94
+ERRO: O livro 0124104096 nao pode ser emprestado ao usuario 399.564.121-44
+ERRO: O livro 0735619670 nao pode ser emprestado ao usuario 000.000.000-00
+ERRO: O livro 0000000000 nao pode ser emprestado ao usuario 343.671.499-37
+Livro 1118063333 devolvido pelo usuario 399.564.121-44
+ERRO: O livro 0000000000 nao pode ser devolvido pelo usuario 343.671.499-37
+ERRO: O livro 0735619670 nao pode ser devolvido pelo usuario 000.000.000-00
+ERRO: O livro 0201657880 nao pode ser devolvido pelo usuario 399.564.121-44
+
+ -- Exibindo Resultado Final --
+LISTA DE LIVROS CADASTRADOS
+Livro: Absolute OpenBSD: Unix for the Practical Paranoid
+Editora: No Starch Press
+Codigo: 1593274769
+Autor(es): Lucas, Michael W.
+Paginas: 536
+Disponivel: Sim
+
+Livro: Art of Computer Programming Vol. 1, The
+Editora: Addison-Wesley Professional
+Codigo: 9780201896
+Autor(es): Knuth, Donald E.
+Paginas: 672
+Disponivel: Nao
+
+Livro: Book of Proof
+Editora: Richard Hammack
+Codigo: 0989472108
+Autor(es): Hammack, Richard
+Paginas: 314
+Disponivel: Nao
+
+Livro: C Programming Language, The
+Editora: Prentice Hall
+Codigo: 0131103628
+Autor(es): Kernighan, Brian; Ritchie, Dennis
+Paginas: 272
+Disponivel: Sim
+
+Livro: C++ Programming Language, The
+Editora: Addison-Wesley Professional
+Codigo: 0321563840
+Autor(es): Stroustrup, Bjarne
+Paginas: 1368
+Disponivel: Nao
+
+Livro: Clean Code: A Handbook of Agile Software Craftsmanship
+Editora: Prentice Hall
+Codigo: 4566190951
+Autor(es): Martin, Robert C.
+Paginas: 464
+Disponivel: Nao
+
+Livro: Code Complete: A Practical Handbook of Software Construction
+Editora: Microsoft Press
+Codigo: 0735619670
+Autor(es): McConnell, Steve
+Paginas: 960
+Disponivel: Nao
+
+Livro: Code: The Hidden Language of Computer Hardware and Software
+Editora: Microsoft Press
+Codigo: 0735611319
+Autor(es): Petzold, Charles
+Paginas: 400
+Disponivel: Nao
+
+Livro: Compilers: Principles, Techniques, and Tools
+Editora: Addison Wesley
+Codigo: 0321486811
+Autor(es): Aho, Alfred V.; Lam, Monica S.; Sethi, Ravi
+Paginas: 1000
+Disponivel: Sim
+
+Livro: Computer Networks
+Editora: Prentice Hall
+Codigo: 9332518742
+Autor(es): Tanenbaum, Andrew S.
+Paginas: 960
+Disponivel: Sim
+
+Livro: Concrete Mathematics: A Foundation for Computer Science
+Editora: Addison-Wesley Professional
+Codigo: 0201558025
+Autor(es): Graham, Ronald L.; Knuth, Donald E.; Patashnik, Oren
+Paginas: 672
+Disponivel: Nao
+
+Livro: Data Structures and Algorithms in Java
+Editora: Sams Publishing
+Codigo: 0672324539
+Autor(es): Lafore, Robert
+Paginas: 800
+Disponivel: Nao
+
+Livro: Design Patterns - Elements of Reusable Software
+Editora: Addison-Wesley Professional
+Codigo: 0201633612
+Autor(es): Gamma, Erich; Helm, Richard; Johnson, Ralph
+Paginas: 395
+Disponivel: Nao
+
+Livro: Emacs Lisp - An Introduction
+Editora: Samurai Media Limited
+Codigo: 9888381490
+Autor(es): Chassell, Robert J.
+Paginas: 270
+Disponivel: Sim
+
+Livro: Engineering a Compiler
+Editora: Morgan Kaufmann
+Codigo: 012088478X
+Autor(es): Cooper, Keith D.; Torczon, Linda
+Paginas: 824
+Disponivel: Sim
+
+Livro: Introduction to Algorithms
+Editora: The Mit Press
+Codigo: 0262033844
+Autor(es): Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L.
+Paginas: 1312
+Disponivel: Nao
+
+Livro: Introduction to the Theory of Computation
+Editora: Cengage India
+Codigo: 8131525295
+Autor(es): Sipser, Michael
+Paginas: 504
+Disponivel: Sim
+
+Livro: Learning Python
+Editora: O'Reilly Media
+Codigo: 1449355730
+Autor(es): Lutz, Mark
+Paginas: 1648
+Disponivel: Sim
+
+Livro: Learning the bash Shell: Unix Shell Programming
+Editora: O'Reilly Media
+Codigo: 0596009658
+Autor(es): Newham, Cameron
+Paginas: 354
+Disponivel: Sim
+
+Livro: Linux Programming Interface: A Linux and UNIX System Programming Handbook, The
+Editora: No Starch Press
+Codigo: 1593272200
+Autor(es): Kerrisk, Michael
+Paginas: 1552
+Disponivel: Nao
+
+Livro: Mythical Man-Month: Essays on Software Engineering, The
+Editora: Addison-Wesley Professional
+Codigo: 0201835959
+Autor(es): Brooks Jr., Frederick P.
+Paginas: 336
+Disponivel: Sim
+
+Livro: Operating System Concepts
+Editora: Wiley
+Codigo: 1118063333
+Autor(es): Silberschatz, Abraham; Galvin, Peter B.; Gagne, Greg
+Paginas: 976
+Disponivel: Sim
+
+Livro: Programming Language Pragmatics
+Editora: Morgan Kaufmann
+Codigo: 0124104096
+Autor(es): Scott, Michael L.
+Paginas: 992
+Disponivel: Nao
+
+Livro: Programming Pearls
+Editora: Addison-Wesley Professional
+Codigo: 0201657880
+Autor(es): Bentley, Jon
+Paginas: 256
+Disponivel: Nao
+
+Livro: Structure and Interpretation of Computer Programs
+Editora: The MIT Press
+Codigo: 0262510871
+Autor(es): Abelson, Harold; Sussman, Gerald Jay; Sussman, Julie
+Paginas: 688
+Disponivel: Sim
+
+Livro: The Pragmatic Programmer: From Journeyman to Master
+Editora: Addison-Wesley Professional
+Codigo: 020161622X
+Autor(es): Hunt, Andrew
+Paginas: 352
+Disponivel: Sim
+
+Livro: Thinking in Java
+Editora: Prentice Hall
+Codigo: 0131872486
+Autor(es): Eckel, Bruce
+Paginas: 1150
+Disponivel: Sim
+
+Livro: Types and Programming Languages
+Editora: MIT Press
+Codigo: 0262162091
+Autor(es): Pierce, Benjamin C.
+Paginas: 645
+Disponivel: Nao
+
+Livro: Unix Programming Environment, The
+Editora: Prentice-Hall Software Series
+Codigo: 013937681X
+Autor(es): Kernighan, Brian W.; Pike, Rob
+Paginas: 357
+Disponivel: Sim
+
+Livro: sed & awk
+Editora: O'Reilly Media
+Codigo: 1565922255
+Autor(es): Dougherty, Dale; Robbins, Arnold
+Paginas: 434
+Disponivel: Sim
+
+LISTA DE USUARIOS CADASTRADOS
+--------------------------------------------------------------------------------
+Nome: Arthur Ferreira Cunha
+CPF: 563.111.861-72
+Endereco: Praca da Redencao, 1225
+Telefone: (12) 3337-5001
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Nenhum livro emprestado.
+
+--------------------------------------------------------------------------------
+Nome: Camila Cunha Martins
+CPF: 658.342.009-23
+Endereco: Rua Sao Bento, 1956
+Telefone: (31) 4532-6677
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Linux Programming Interface: A Linux and UNIX System Programming Handbook, The
+Editora: No Starch Press
+Codigo: 1593272200
+Autor(es): Kerrisk, Michael
+Paginas: 1552
+Disponivel: Nao
+
+Livro: Programming Pearls
+Editora: Addison-Wesley Professional
+Codigo: 0201657880
+Autor(es): Bentley, Jon
+Paginas: 256
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Diogo Ribeiro Carvalho
+CPF: 399.564.121-44
+Endereco: Rua de Vega, 182
+Telefone: (31) 9306-3080
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: C++ Programming Language, The
+Editora: Addison-Wesley Professional
+Codigo: 0321563840
+Autor(es): Stroustrup, Bjarne
+Paginas: 1368
+Disponivel: Nao
+
+Livro: Introduction to Algorithms
+Editora: The Mit Press
+Codigo: 0262033844
+Autor(es): Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L.
+Paginas: 1312
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Gabriela Santos Souza
+CPF: 675.341.678-67
+Endereco: Quadra SHS, 197
+Telefone: (61) 8639-2928
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Design Patterns - Elements of Reusable Software
+Editora: Addison-Wesley Professional
+Codigo: 0201633612
+Autor(es): Gamma, Erich; Helm, Richard; Johnson, Ralph
+Paginas: 395
+Disponivel: Nao
+
+Livro: Programming Language Pragmatics
+Editora: Morgan Kaufmann
+Codigo: 0124104096
+Autor(es): Scott, Michael L.
+Paginas: 992
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Julia Gomes Pereira
+CPF: 354.430.306-04
+Endereco: Rua Marques de Barbacena, 995
+Telefone: (21) 8629-2964
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Types and Programming Languages
+Editora: MIT Press
+Codigo: 0262162091
+Autor(es): Pierce, Benjamin C.
+Paginas: 645
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Julia Pereira Cardoso
+CPF: 111.237.592-57
+Endereco: Beco Felizardo Furtado, 127
+Telefone: (51) 2230-3684
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Nenhum livro emprestado.
+
+--------------------------------------------------------------------------------
+Nome: Mariana Rodrigues Cavalcanti
+CPF: 366.512.654-99
+Endereco: Rua das Missoes, 1195
+Telefone: (51) 3350-2311
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Clean Code: A Handbook of Agile Software Craftsmanship
+Editora: Prentice Hall
+Codigo: 4566190951
+Autor(es): Martin, Robert C.
+Paginas: 464
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Otavio Martinz Azevedo
+CPF: 101.455.398-94
+Endereco: Via de Servidao Tres, 1351
+Telefone: (45) 9987-1221
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Code Complete: A Practical Handbook of Software Construction
+Editora: Microsoft Press
+Codigo: 0735619670
+Autor(es): McConnell, Steve
+Paginas: 960
+Disponivel: Nao
+
+Livro: Data Structures and Algorithms in Java
+Editora: Sams Publishing
+Codigo: 0672324539
+Autor(es): Lafore, Robert
+Paginas: 800
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Renan Lima Cardoso
+CPF: 012.410.409-60
+Endereco: Rua Sao Carlos, 579
+Telefone: (92) 3230-5734
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Art of Computer Programming Vol. 1, The
+Editora: Addison-Wesley Professional
+Codigo: 9780201896
+Autor(es): Knuth, Donald E.
+Paginas: 672
+Disponivel: Nao
+
+Livro: Concrete Mathematics: A Foundation for Computer Science
+Editora: Addison-Wesley Professional
+Codigo: 0201558025
+Autor(es): Graham, Ronald L.; Knuth, Donald E.; Patashnik, Oren
+Paginas: 672
+Disponivel: Nao
+
+--------------------------------------------------------------------------------
+Nome: Thais Melo Rodrigues
+CPF: 329.380.561-12
+Endereco: Rua Major Alvaro Fortes, 352
+Telefone: (11) 27756004
+Situacao: Ativo
+
+Lista de livros emprestados: 
+Livro: Book of Proof
+Editora: Richard Hammack
+Codigo: 0989472108
+Autor(es): Hammack, Richard
+Paginas: 314
+Disponivel: Nao
+
+Livro: Code: The Hidden Language of Computer Hardware and Software
+Editora: Microsoft Press
+Codigo: 0735611319
+Autor(es): Petzold, Charles
+Paginas: 400
+Disponivel: Nao
+

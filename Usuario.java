@@ -40,6 +40,7 @@ public class Usuario {
 	}
 
 	public void imprimeInformacoesUsuario() {
+		System.out.println("--------------------------------------------------------------------------------");
 		System.out.println("Nome: " + nome);
 		System.out.println("CPF: " + cpf);
 		System.out.println("Endereco: " + endereco);
@@ -53,8 +54,6 @@ public class Usuario {
 		}
 
 		listaLivrosEmprestados();
-		System.out.println();
-
 	}
 
 	public boolean emprestaLivro(Livro livro) {
@@ -84,17 +83,17 @@ public class Usuario {
 
 	public void listaLivrosEmprestados() {
 		boolean nenhumLivroEmprestado = true;
-		System.out.println("Livros emprestados: ");
+		System.out.println("\nLista de livros emprestados: ");
 
 		for(int i = 0; i < livrosEmprestados.length; i++) {
 			if(livrosEmprestados[i] != null){
-				System.out.println(" * " + livrosEmprestados[i].getNomeLivro());
+				livrosEmprestados[i].imprimeInformacoesLivro();
 				nenhumLivroEmprestado = false;
 			}
 		}
 
 		if (nenhumLivroEmprestado) {
-			System.out.println("Nenhum livro emprestado.");
+			System.out.println("Nenhum livro emprestado.\n");
 		}
 	}
 }

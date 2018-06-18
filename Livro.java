@@ -49,7 +49,7 @@ public class Livro {
 	}
 
 	public void imprimeInformacoesLivro() {
-		System.out.println("Nome: " + nomeLivro);
+		System.out.println("Livro: " + nomeLivro);
 		System.out.println("Editora: " + editoraLivro);
 		System.out.println("Codigo: " + codigoLivro);
 

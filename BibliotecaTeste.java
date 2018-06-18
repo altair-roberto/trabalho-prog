@@ -75,6 +75,7 @@ public class BibliotecaTeste {
 		biblioteca.emprestarLivro("0989472108", "329.380.561-12");
 		biblioteca.emprestarLivro("0124104096", "675.341.678-67");
 		biblioteca.emprestarLivro("0262162091", "354.430.306-04");
+		biblioteca.emprestarLivro("1565922255", "329.380.561-12");
 
 		// tenta emprestar um livro que ja foi emprestado
 		biblioteca.emprestarLivro("0262162091", "101.455.398-94");
@@ -89,7 +90,7 @@ public class BibliotecaTeste {
 		biblioteca.emprestarLivro("0000000000", "343.671.499-37");
 
 		// tenta devolver livro emprestado
-		biblioteca.devolverLivro("1118063333", "399.564.121-44");
+		biblioteca.devolverLivro("1565922255", "329.380.561-12");
 
 		// tenta devolver livro nao cadastrado
 		biblioteca.devolverLivro("0000000000", "343.671.499-37");

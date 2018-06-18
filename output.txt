@@ -58,11 +58,13 @@ Livro "Linux Programming Interface: A Linux and UNIX System Programming Handbook
 Livro "Book of Proof" emprestado para o usuario Thais Melo Rodrigues
 Livro "Programming Language Pragmatics" emprestado para o usuario Gabriela Santos Souza
 Livro "Types and Programming Languages" emprestado para o usuario Julia Gomes Pereira
+Livro "sed & awk" emprestado para o usuario Thais Melo Rodrigues
 ERRO: O livro 0262162091 nao pode ser emprestado ao usuario 101.455.398-94
 ERRO: O livro 0124104096 nao pode ser emprestado ao usuario 399.564.121-44
 ERRO: O livro 0735619670 nao pode ser emprestado ao usuario 000.000.000-00
 ERRO: O livro 0000000000 nao pode ser emprestado ao usuario 343.671.499-37
-Livro 1118063333 devolvido pelo usuario 399.564.121-44
+Ativando usuario Thais Melo Rodrigues
+Livro 1565922255 devolvido pelo usuario 329.380.561-12
 ERRO: O livro 0000000000 nao pode ser devolvido pelo usuario 343.671.499-37
 ERRO: O livro 0735619670 nao pode ser devolvido pelo usuario 000.000.000-00
 ERRO: O livro 0201657880 nao pode ser devolvido pelo usuario 399.564.121-44
@@ -221,7 +223,7 @@ Editora: Wiley
 Codigo: 1118063333
 Autor(es): Silberschatz, Abraham; Galvin, Peter B.; Gagne, Greg
 Paginas: 976
-Disponivel: Sim
+Disponivel: Nao
 
 Livro: Programming Language Pragmatics
 Editora: Morgan Kaufmann
@@ -317,7 +319,7 @@ Nome: Diogo Ribeiro Carvalho
 CPF: 399.564.121-44
 Endereco: Rua de Vega, 182
 Telefone: (31) 9306-3080
-Situacao: Ativo
+Situacao: Inativo
 
 Lista de livros emprestados: 
 Livro: C++ Programming Language, The
@@ -332,6 +334,13 @@ Editora: The Mit Press
 Codigo: 0262033844
 Autor(es): Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald L.
 Paginas: 1312
+Disponivel: Nao
+
+Livro: Operating System Concepts
+Editora: Wiley
+Codigo: 1118063333
+Autor(es): Silberschatz, Abraham; Galvin, Peter B.; Gagne, Greg
+Paginas: 976
 Disponivel: Nao
 
 --------------------------------------------------------------------------------

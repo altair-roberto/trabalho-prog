@@ -33,9 +33,6 @@ public class Biblioteca {
 									System.out.println("Livro \"" + livros[j].getNomeLivro() + "\" emprestado para o usuario " + usuarios[i].getNome());
 									return true;
 								}
-								else {
-									desativarUsuario(cpfUsuario);
-								}
 							}
 						}
 					}

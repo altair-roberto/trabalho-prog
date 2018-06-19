@@ -144,7 +144,7 @@ public class Biblioteca {
 				int indice = i;
 				for (int j = i + 1; j < usuarios.length; j++) {
 					if (usuarios[j] != null) {
-						if (usuarios[i].getNome().compareTo(usuarios[j].getNome()) > 0) {
+						if (usuarios[indice].getNome().compareTo(usuarios[j].getNome()) > 0) {
 							indice = j;
 						}
 					}
@@ -165,7 +165,7 @@ public class Biblioteca {
 				int indice = i;
 				for (int j = i + 1; j < listaLivros.length; j++) {
 					if (listaLivros[j] != null) {
-						if (listaLivros[i].getNomeLivro().compareTo(listaLivros[j].getNomeLivro()) > 0) {
+						if (listaLivros[indice].getNomeLivro().compareTo(listaLivros[j].getNomeLivro()) > 0) {
 							indice = j;
 						}
 					}
